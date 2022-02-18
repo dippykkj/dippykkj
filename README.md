@@ -2,7 +2,7 @@
 
 - Average Aoi.js discord bot programmer.
 - Code in Visual Studio Code or Atom.
-- Linux User (distro: parrot).
+- Linux User.
 - Junior in: Javascript, html and css.
 - Studying: React, TS.
 
