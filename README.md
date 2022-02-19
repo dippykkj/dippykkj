@@ -4,7 +4,7 @@
 - Code in Visual Studio Code or Atom.
 - Linux User.
 - Junior in: Javascript, html and css.
-- Studying: React, TS, express and node.js.
+- Studying: React, TS and node.js.
 
 <div align="center">
   <a href="https://github.com/dippykkj">
