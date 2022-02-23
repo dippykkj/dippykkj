@@ -1,9 +1,10 @@
 <h1>Hi, I'm Dippy. 👋</h1>
 
 - Average Aoi.js discord bot programmer.
+- Brazilian
 - Code in Visual Studio Code or Atom.
-- Junior in: Javascript, html and css.
-- Studying: React, TS and node.js.
+- Junior in: Javascript, Html and Css.
+- Studying: React, TS, Python and Node.js.
 
 <div align="center">
   <a href="https://github.com/dippykkj">
@@ -22,4 +23,5 @@
   <img align="center" alt="Atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
