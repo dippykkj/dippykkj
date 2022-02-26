@@ -2,9 +2,9 @@
 
 - Brazilian
 - Code in Visual Studio Code
-- Linux User
+- Linux user
 - Front-end web programmer
-- future software developer
+- Future software developer
 
 <div align="center">
   <a href="https://github.com/dippykkj">
