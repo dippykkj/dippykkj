@@ -12,7 +12,7 @@
   <hr>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=dippykkj&color=red" alt="Profile views" /> </p>
     
-### Languages, Frameworks and more
+### Languages, Frameworks, Databases, Librarys and more
   <div style="display: inline_block"><br>
   <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
