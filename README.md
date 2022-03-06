@@ -2,8 +2,7 @@
 
 - Brazilian
 - Code in Visual Studio Code
-- Linux user
-- Front-end web programmer
+- Front-end
 
 <div align="center">
   <a href="https://github.com/dippykkj">
