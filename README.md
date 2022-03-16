@@ -9,7 +9,6 @@
   <a href="https://github.com/dippykkj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dippykkj&show_icons=false&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dippykkj&layout=compact&langs_count=7&theme=gotham"/>
-  <hr>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=dippykkj&color=red" alt="Profile views" /> </p>
 
 <h1>My Skills</h1>
