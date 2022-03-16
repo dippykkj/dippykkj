@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dippy. 👋</h1>
-<p>About me:</p>
+<h4><strong>About me:</strong></h4>
 
 - Brazilian
 - Code in Visual Studio Code
