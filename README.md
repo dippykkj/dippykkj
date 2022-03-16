@@ -12,7 +12,7 @@
   <hr>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=dippykkj&color=red" alt="Profile views" /> </p>
 
-<h1>My Skills (Languages, Tools, Frameworks, Databases and more)</h1>
+<h1>My Skills</h1>
 <h4>Sênior</h4>
 ...
     
